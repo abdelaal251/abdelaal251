@@ -1,25 +1,49 @@
-## Hi there 👋 I'm Abdelaal
+# Hi there 👋 I'm Ahmed Abdelaal
 
-# About Me
+## About Me
 
-I am an adaptable and detail-oriented Software Engineer with a diverse background in software development and automation. My expertise spans various domains, including web application development, RESTful APIs, and full-stack solutions using .NET. I am proficient in implementing advanced design patterns like Repository, Factory, Dependency Injection, Singleton, and Observer, and I have experience working with multiple software architectures such as Microservices, MVC, and MVVM.
+I am an adaptable and detail-oriented Software Engineer with a diverse background in software development, automation, and modern web technologies. My expertise spans web application development, RESTful APIs, and full-stack solutions using .NET, JavaScript and cloud-native tools.
 
-## Key Skills
+---
 
-- **Programming Languages**: Proficient in C#, Python, JavaScript, and TypeScript.
-- **Frameworks & Tools**: Experienced with .NET Core, Angular, Docker, Django and Git/GitHub.
-- **Automation**: Skilled in developing automation scripts to enhance operational efficiency, including using Excel macros and custom software automation.
-- **Database Management**: Knowledgeable in SQL and ORM technologies.
-- **Software Design**: Strong understanding of design principles and experience in developing scalable software solutions.
-- **Version Control & Collaboration**: Efficient in using tools like Git, Slack, and Jira to manage and collaborate on projects.
+### 🚀 Key Skills
 
-## Professional Competence
+- **Programming Languages:**  
+  C#, Python, JavaScript, TypeScript
 
-- Developed full-stack web applications with robust backend logic, leveraging the capabilities of the .NET ecosystem.
-- Created automation solutions to optimize workflows, reduce manual tasks, and improve overall efficiency.
-- Built and integrated seamless solutions for e-commerce platforms, enhancing customer interaction through advanced customer relationship management tools.
-- Designed microservice-based integrations for various systems to improve operational efficiency and scalability.
+- **Frameworks & Tools:**  
+  .NET Core, Angular, React, Node.js, Docker, Django, Lovable, Supabase, PostgREST, Git/GitHub
 
-## Continuous Learning
+- **Automation:**  
+  Experience in developing automation scripts to improve operational efficiency, utilizing Excel macros and custom software automation.
 
-I am committed to continuous learning and improvement, demonstrated by my completion of various certifications in software engineering, system modelling, automation, and software implementation and testing.
+- **Database Management:**  
+  Proficient in SQL and ORM technologies
+
+- **Software Design:**  
+  Advanced knowledge of design patterns (Repository, Factory, Dependency Injection, Singleton, Observer) and software architectures (Microservices, MVC, MVVM)
+
+- **Collaboration & Version Control:**  
+  Efficient with Git, Slack, Jira, and collaborative project workflows
+
+---
+
+### 🏆 Professional Experience
+
+- Developed full-stack web applications with robust backend logic using .NET ecosystem and modern JavaScript frameworks.
+- Built automation solutions to optimize workflows, reduce manual tasks, and increase efficiency.
+- Integrated seamless solutions for e-commerce platforms, focusing on customer interaction and CRM tools.
+- Designed microservice-based system integrations for enhanced scalability and operational efficiency.
+- Leveraged cloud platforms and open-source tools for rapid, reliable software delivery.
+
+---
+
+### 📚 Continuous Learning
+
+I am committed to continuous learning and professional growth, demonstrated by certifications in software engineering, system modeling, automation, and software implementation/testing. I am always exploring new technologies, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.
+
+---
+
+### 🤝 Let’s Connect!
+
+Feel free to check out my projects, reach out for collaboration, or connect with me on GitHub!
